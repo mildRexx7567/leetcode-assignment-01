@@ -2,6 +2,7 @@
 Aqui van a estar mis resultados del LeetCode desde easy hasta hard
 ## Easy Problems
 - #1 [#1 Two Sum](Easy/1-Two-Sum.cpp)
+- #2 [#9 Palindrome Number](Easy/9-Palindrome-Number.cpp)
 ## Medium Problems
 ## Hard Problem (Bonus)
 
