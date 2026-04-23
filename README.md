@@ -5,6 +5,7 @@ Aqui van a estar mis resultados del LeetCode desde easy hasta hard
 - #2 [#9 Palindrome Number](Easy/9-Palindrome-Number.cpp)
 - #3 [#13 Roman to Integer](Easy/13-Roman-to-Integer.cpp)
 - #4 [#14 Longest Common Prefix](Easy/14-Longest-Common-Prefix.cpp)
+- #5 [#58 Length of Last Word](Easy/58-Length-of-Last-Word.cpp)
 ## Medium Problems
 ## Hard Problem (Bonus)
 
