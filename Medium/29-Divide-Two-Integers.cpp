@@ -4,7 +4,6 @@ using namespace std;
 
 // LeetCode #29 - Divide Two Integers
 // Difficulty: Medium
-// Author: JSOR
 //
 // (JSOR):
 // Simular la división sin usar *, / o %
@@ -26,7 +25,7 @@ public:
         bool negative = (dividend < 0) ^ (divisor < 0);
 
         // Convertimos a long long ANTES de aplicar abs
-        // (JSOR) Esto evita overflow con INT_MIN
+        //  Esto evita overflow con INT_MIN
         long long a = llabs((long long) dividend);
         long long b = llabs((long long) divisor);
 
