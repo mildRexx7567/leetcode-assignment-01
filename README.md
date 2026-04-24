@@ -8,6 +8,7 @@ Aqui van a estar mis resultados del LeetCode desde easy hasta hard
 - #5 [#58 Length of Last Word](Easy/58-Length-of-Last-Word.cpp)
 ## Medium Problems
 - #1 [#29 Divide Two Integers](Medium/29-Divide-Two-Integers.cpp)
+- #2 [#46 Permutations](Medium/46-Permutations.cpp)
 ## Hard Problem (Bonus)
 
 
