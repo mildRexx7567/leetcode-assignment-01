@@ -10,6 +10,7 @@ Aqui van a estar mis resultados del LeetCode desde easy hasta hard
 - #1 [#29 Divide Two Integers](Medium/29-Divide-Two-Integers.cpp)
 - #2 [#46 Permutations](Medium/46-Permutations.cpp)
 ## Hard Problem (Bonus)
+- #1 [#44 Wildcard Matching](Hard/44-Wildcard-Matching.cpp)
 
 
 Author: Jamhil S.
