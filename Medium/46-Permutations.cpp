@@ -5,7 +5,6 @@ using namespace std;
 // Difficulty: Medium
 // hi JSOR here
 //
-// Idea principal (JSOR):
 // Usar backtracking para generar todas las permutaciones posibles.
 // Vamos construyendo una permutación paso a paso y marcamos
 // qué elementos ya han sido usados.
@@ -35,7 +34,6 @@ public:
             current.push_back(nums[i]);
             used[i] = true;
 
-            // JSOR aplica backtracking aquí 🔁
             backtrack(nums, current, result, used);
 
             // Deshacemos la elección (backtrack)
