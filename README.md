@@ -7,6 +7,7 @@ Aqui van a estar mis resultados del LeetCode desde easy hasta hard
 - #4 [#14 Longest Common Prefix](Easy/14-Longest-Common-Prefix.cpp)
 - #5 [#58 Length of Last Word](Easy/58-Length-of-Last-Word.cpp)
 ## Medium Problems
+- #1 [#29 Divide Two Integers](Medium/29-Divide-Two-Integers.cpp)
 ## Hard Problem (Bonus)
 
 
