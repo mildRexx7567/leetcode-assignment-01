@@ -1,0 +1,16 @@
+resultados
+
+Case 1
+Input
+s = "III"
+Output 3
+
+Case 2
+Input
+s = "LVIII"
+Output 58
+
+Case 3
+Input
+s = "MCMXCIV"
+Output 1994
