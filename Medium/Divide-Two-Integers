@@ -1,0 +1,15 @@
+resultados
+
+Case 1
+nput
+dividend = 10
+divisor = 3
+Output
+3
+
+Case 2
+Input
+dividend = 7
+divisor = -3
+Output
+-2
