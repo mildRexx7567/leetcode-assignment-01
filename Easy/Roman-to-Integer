@@ -1,12 +1,16 @@
+Resultados
+
 Input
 Case 1
 x = 121
 Output true
 
 Case 2
+Input
 x = -121
 Output false 
 
 Case 3
+Input
 x = 10
 Output false
