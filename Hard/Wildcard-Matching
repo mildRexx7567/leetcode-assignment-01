@@ -1,0 +1,22 @@
+Resultados
+
+Case 1
+Input
+s = "aa"
+p = "a"
+Output
+false
+
+Case 2
+Input
+s = "aa"
+p = "*"
+Output
+true
+
+Case 3
+Input
+s = "cb"
+p = "?a"
+Output
+false
