@@ -1,0 +1,16 @@
+resultados
+
+Case 1
+Input
+s = "Hello World"
+Output 5
+
+Case 2
+Input
+s = "   fly me   to   the moon  "
+Output 4
+
+Case 3
+Input
+s = "luffy is still joyboy"
+Output 6
