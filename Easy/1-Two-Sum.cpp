@@ -1,7 +1,6 @@
 // LeetCode #1 - Two Sum
 // Difficulty: Easy
-// Approach: Brute Force
-// Time Complexity: O(n^2)
+// Time Complexity: O(n)
 // Space Complexity: O(1)
 
 class Solution {
