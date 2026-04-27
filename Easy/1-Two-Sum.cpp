@@ -1,7 +1,7 @@
 // LeetCode #1 - Two Sum
 // Difficulty: Easy
 // Time Complexity: O(n)
-// Space Complexity: O(1)
+// Space Complexity: O(n)
 
 class Solution {
 public:
